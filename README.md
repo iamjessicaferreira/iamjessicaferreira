@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/ferreirajn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreirajn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ferreirajn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirajn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -14,7 +14,7 @@
   <img align="center" alt="jé-next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="jé-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jé-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="jé-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/980207292630847569/1055852242114195487/WhatsApp_Image_2022-12-23_at_11.19.35.jpeg">
+  <img align="right" alt="jé-pic" height="180"style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/980207292630847569/1055852242114195487/WhatsApp_Image_2022-12-23_at_11.19.35.jpeg">
 </div>
 
 ##
