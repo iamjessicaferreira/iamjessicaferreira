@@ -1,4 +1,4 @@
-### Olá! Eu sou Jéssica Ferreira, desenvolvedora front-end construindo jornada full stack.🚀
+### Olá! Eu sou Jéssica Ferreira, Desenvolvedora Fullstack. 🚀
 
 <div align="center">
   <a href="https://github.com/ferreirajn">
