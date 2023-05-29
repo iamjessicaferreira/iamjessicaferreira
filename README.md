@@ -7,14 +7,14 @@
 </div>
 
 <div align="center"><br>
-  <img align="center" alt="jé-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jé-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="jé-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="jé-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="jé-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="jé-next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="jé-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jé-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="jé-pic" height="180"style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/980207292630847569/1055852242114195487/WhatsApp_Image_2022-12-23_at_11.19.35.jpeg">
+ <img align="right" alt="jé-pic" height="265" style="border-radius: 50px;"       src="https://cdn.discordapp.com/attachments/980207292630847569/1112808322341539942/Fullstack_Web_Developer_2.jpg">
 </div> 
 
 ##
