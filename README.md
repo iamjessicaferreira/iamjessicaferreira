@@ -15,7 +15,7 @@
   <img align="center" alt="jé-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jé-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="jé-pic" height="180"style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/980207292630847569/1055852242114195487/WhatsApp_Image_2022-12-23_at_11.19.35.jpeg">
-</div>
+</div> 
 
 ##
 
