@@ -14,6 +14,8 @@
   <img align="center" alt="jé-next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="jé-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jé-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="jé-WP" height="30" width="40" src="  https://img.freepik.com/icones-gratis/wordpress_318-183439.jpg">
+
  <img align="right" alt="jé-pic" height="265" style="border-radius: 50px;"       src="https://cdn.discordapp.com/attachments/980207292630847569/1112808322341539942/Fullstack_Web_Developer_2.jpg">
 </div> 
 
