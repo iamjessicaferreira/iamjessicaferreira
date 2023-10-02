@@ -1,9 +1,9 @@
 ### Olá! Eu sou Jéssica Ferreira, Desenvolvedora Fullstack. 🚀
 
 <div align="center">
-  <a href="https://github.com/ferreirajn">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ferreirajn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirajn&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/mechamoje">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mechamoje&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mechamoje&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center"><br>
