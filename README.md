@@ -1,4 +1,4 @@
-### Olá! Eu sou Jéssica Ferreira, Desenvolvedora Fullstack. 🚀
+### Olá! Eu sou Jéssica Ferreira, Engenheira de Software Fullstack. 🚀
 
 <div align="center">
   <a href="https://github.com/mechamoje">
