@@ -1,4 +1,5 @@
-### Olá! Eu sou Jéssica Ferreira, Engenheira de Software Fullstack. 🚀
+### Hi, I am Jéssica Ferreira. ##
+I am a multidisciplinary professional with solid experience in software development, team management, and agile. My journey combines technology, management, and creativity, allowing me to bridge the gap between both technical and product teams, ensuring efficiency, innovation, and high performance. 🚀
 
 <div align="center">
   <a href="https://github.com/mechamoje">
@@ -20,8 +21,6 @@
   <img align="center" alt="jé-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="jé-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="jé-AWS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-
- <img align="right" alt="jé-pic" height="210" style="border-radius: 50px;"       src="https://cdn.discordapp.com/attachments/980207292630847569/1112808322341539942/Fullstack_Web_Developer_2.jpg">
 </div> 
 
 ##
