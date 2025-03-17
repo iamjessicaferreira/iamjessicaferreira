@@ -20,7 +20,6 @@ I am a multidisciplinary professional with solid experience in software developm
     <img align="center" alt="jé-GRAPHQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">  
   <img align="center" alt="jé-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="jé-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="jé-AWS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </div> 
 
 ##
